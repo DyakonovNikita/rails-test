@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rails-test.iml" filepath="$PROJECT_DIR$/.idea/modules/rails-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ruby-test.iml" filepath="$PROJECT_DIR$/.idea/modules/ruby-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/untitled4.iml" filepath="$PROJECT_DIR$/.idea/untitled4.iml" />
     </modules>
   </component>
